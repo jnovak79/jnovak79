@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm John</h1>
+<h1 align="center">Hi, I'm John Novakowski</h1>
 <h3 align="center">A software engineer from Pennsylvania</h3>
 
 - How to reach me **jnovakowski797@gmail.com**
